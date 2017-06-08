@@ -16,7 +16,7 @@
   	{
   		echo 'Missing Data';
   	}
-  	else
+  	else //成り立たなかった場合
   	{
   		foreach($_GET as $k => $v)
   		{
